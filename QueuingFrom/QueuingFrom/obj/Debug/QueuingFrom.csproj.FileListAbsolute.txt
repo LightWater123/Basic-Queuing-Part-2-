@@ -1,0 +1,11 @@
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\bin\Debug\QueuingFrom.exe.config
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\bin\Debug\QueuingFrom.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\bin\Debug\QueuingFrom.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.QueuingForm.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.Properties.Resources.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\QueuingForm\QueuingFrom\QueuingFrom\obj\Debug\QueuingFrom.CashierWindowQueue.resources
